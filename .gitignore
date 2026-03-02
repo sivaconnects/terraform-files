@@ -1,0 +1,9 @@
+# ===== Terraform (global) =====
+**/.terraform/
+**/*.tfstate
+**/*.tfstate.*
+**/.terraform.lock.hcl
+
+# ===== OS / Editor =====
+.DS_Store
+*.log
